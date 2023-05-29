@@ -9,6 +9,13 @@ resource "aws_vpc" "vpc-01" {
     }
 }
 
+
+
+
+
+
+
+
 #Creating VPC-02
 resource "aws_vpc" "vpc-02" {
     cidr_block = 172.16.0.0/16

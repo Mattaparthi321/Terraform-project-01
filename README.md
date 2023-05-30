@@ -2,6 +2,4 @@
 Automation End to End project-01
 [Testing Terraform code](https://www.youtube.com/watch?v=_8qLmqXqXU4)
 
-
-
-thaifhai 
+https://dheeraj3choudhary.com/series/terraform 

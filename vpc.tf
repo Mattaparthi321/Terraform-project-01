@@ -14,3 +14,5 @@ resource "aws_internet_gateway" "HCL-02-IGW" {
         Name = "My-test-HCL-02"
     }
 }
+
+lokokkokok:

@@ -17,3 +17,6 @@ resource "aws_subnet" "subnet2-public" {
         Name = "${var.public_subnet2_name}"
     }
 }
+
+
+mohan:
